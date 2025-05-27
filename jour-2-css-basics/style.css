@@ -1,0 +1,16 @@
+h1, h2 {
+    color: red;
+    background-color: lightgrey;
+}
+
+p {
+    color: blue;
+    background-color: dimgrey;
+
+    text-decoration-line: underline line-through;
+    text-decoration-color: red;
+    text-decoration-style: dashed;
+
+    /* équivalent mais à éviter */
+    text-decoration: underline line-through red dashed;
+}
