@@ -1,0 +1,9 @@
+Ctrl+Tab : switch tabs
+Ctrl+T : new tab
+Ctrl+W : close tab
+
+VS code :
+    Lorem
+    Lorem* : * is the number of words wanted
+    ! : boilerplate
+    Alt+Shift+Down : duplicate line downwards
