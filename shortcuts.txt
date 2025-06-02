@@ -7,3 +7,6 @@ VS code :
     Lorem* : * is the number of words wanted
     ! : boilerplate
     Alt+Shift+Down : duplicate line downwards
+    Ctrl+/ : comment line
+    Ctrl+[&,é,"] : got to pane [1,2,3]
+    Ctrl+Shift+L : duplicate cursor to same occurences of selected text
