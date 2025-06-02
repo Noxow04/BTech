@@ -1,0 +1,20 @@
+.traduction {
+    font-style: italic;
+}
+
+.pair {
+    color: #2e2e2e;
+}
+
+.impair {
+    color: #808080;
+}
+
+#original {
+    font-weight: bold;
+}
+
+/* on peut lister n'importe quel type de selecteur */
+#original, .traduction, h2 {
+    font-family: 'Courier New';
+}
