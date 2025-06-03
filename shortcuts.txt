@@ -10,3 +10,4 @@ VS code :
     Ctrl+/ : comment line
     Ctrl+[&,é,"] : got to pane [1,2,3]
     Ctrl+Shift+L : duplicate cursor to same occurences of selected text
+    ALT+[Up,Down] : move current line upwards/downwards
