@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #708090;
+}
+
+div {
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
+
+.static {
+  position: static;
+  background-color: red;
+  left: 200px;
+}
+
+.absolute {
+  position: absolute;
+  background-color: blue;
+  width: 50px;
+  height: 50px;
+  right: -20px;
+  top: -20px;
+}
+
+.relative {
+  position: relative;
+  background-color: green;
+  left: 200px;
+}
+
+.fixed {
+  position: fixed;
+  background-color: purple;
+}
